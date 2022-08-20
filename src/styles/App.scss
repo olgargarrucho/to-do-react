@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+.body {
+  min-height: 100vh;
+}
+
+li{
+  list-style: none;
+}
+
+.main {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-header {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  font-size: 3.6rem;
+  line-height: 4.2rem;
+  letter-spacing: -0.045em;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+  color: #333333;
+}
+
+.nav-menu{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.nav-menu-list {
+  width: 610px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 20px;
+  border-bottom: solid 1px #BDBDBD;
+  font-family: 'Montserrat', sans-serif;
+  color: #333333;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  font-weight: 600;
+}
+
+.form {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.input {
+  width: 476px;
+  height: 56px;
+  border-radius: 12px;
+  border: solid 1px #BDBDBD;
+  color: #828282;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  padding: 20px 12px;
+}
+
+.button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  width: 109px;
+  height: 56px;
+  background-color: #2F80ED;
+  box-shadow: 0px 2px 6px rgba(127, 177, 243, 0.4);
+  border-radius: 12px;
+  color: #FFFFFF;
+}
+
+.rectangle {
+  width: 89px;
+  height: 4px;
+  border-radius: 4px 4px 0px 0px;
+  background-color: #2F80ED;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-checkbox {
+  width: 610px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 7px;
+  padding-top: 33px;
+  
+}
+
+.task-checkbox {
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: center;
+  gap: 7px;
+
+}
+
+.text-checkbox {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  color: #000000;
+}
+
+.checkbox {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #828282;
+  border-radius: 4px;
+}
+
+.collapsed {
+  display: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-text {
+  color:#BDBDBD;
+  font-size: 12px;
+}
