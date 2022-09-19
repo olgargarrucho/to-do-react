@@ -65,8 +65,8 @@ This site was created to settle the knowledge acquired so far about React.
 ## Contact
 
 - Website [Linkedin](https://linkedin.com/in/olgargarrucho/)
-- GitHub [@olgargarrucho](https://{github.com/olgargarrucho)
-- Twitter [@OlgaRGarrucho](https://{twitter.com/OlgaRGarrucho)
+- GitHub [@olgargarrucho](https://github.com/olgargarrucho)
+- Twitter [@OlgaRGarrucho](https://twitter.com/OlgaRGarrucho)
 
 ## License
 
