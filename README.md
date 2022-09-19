@@ -54,9 +54,9 @@ If you want to see the final result of this proyect deployed, you can visit [Dem
 - [HTML5]
 - [CSS3]
 - [React]
-- [Visual-Studio-Node] (https://code.visualstudio.com/download) Version: May 2022
-- [Git] (https://git-scm.com/download/mac) Version: 2.36.1
-- [Git-Hub] (https://github.com/)
+- [Visual-Studio-Node](https://code.visualstudio.com/download) Version: May 2022
+- [Git](https://git-scm.com/download/mac) Version: 2.36.1
+- [Git-Hub](https://github.com/)
 
 ## Features
 
@@ -64,9 +64,9 @@ This site was created to settle the knowledge acquired so far about React.
 
 ## Contact
 
-- Website [Linkedin](https://{linkedin.com/in/olgargarrucho/})
-- GitHub [@olgargarrucho](https://{github.com/olgargarrucho})
-- Twitter [@OlgaRGarrucho](https://{twitter.com/OlgaRGarrucho)})
+- Website [Linkedin](https://linkedin.com/in/olgargarrucho/)
+- GitHub [@olgargarrucho](https://{github.com/olgargarrucho)
+- Twitter [@OlgaRGarrucho](https://{twitter.com/OlgaRGarrucho)
 
 ## License
 
