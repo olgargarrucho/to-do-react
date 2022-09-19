@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://olguita2412.github.io/to-do-react/">
+    <a href="https://olgargarrucho.github.io/to-do-react/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/olguita2412/to-do-react">
+    <a href="https://github.com/olgargarrucho/to-do-react">
       Solution
     </a>
   </h3>
@@ -47,7 +47,7 @@ I have practiced the position of elements with Flexbox and React.
 ### Demo
 ![Demo](./src/images/demo-todo-react.gif)
 
-If you want to see the final result of this proyect deployed, you can visit [Demo of the proyect](https://olguita2412.github.io/to-do-react/)
+If you want to see the final result of this proyect deployed, you can visit [Demo of the proyect](https://olgargarrucho.github.io/to-do-react/)
 
 ### Built With
 
@@ -64,9 +64,9 @@ This site was created to settle the knowledge acquired so far about React.
 
 ## Contact
 
-- Website [Linkedin](https://{www.linkedin.com/in/olguita2412/})
-- GitHub [@olguita2412](https://{github.com/olguita2412})
-- Twitter [@olguiita24](https://{twitter.com/olguiita24})
+- Website [Linkedin](https://{linkedin.com/in/olgargarrucho/})
+- GitHub [@olguita2412](https://{github.com/olgargarrucho})
+- Twitter [@olguiita24](https://{twitter.com/olgargarrucho})
 
 ## License
 
